@@ -1,4 +1,4 @@
-# alfred-maxmind-geoip [![Build Status](https://travis-ci.org/alexfigueiredo/alfred-maxmind-geoip.svg?branch=master)](https://travis-ci.org/alexfigueiredo/alfred-maxmind-geoip)
+# alfred-maxmind-geoip 
 
 > GeoIP database search
 
@@ -14,7 +14,7 @@ $ npm install --global alfred-maxmind-geoip
 
 ## Usage
 
-In Alfred, type `geo`, <kbd>Enter</kbd>, and your query.
+In Alfred, type `geo`, <kbd>IP Address</kbd>, and your query.
 
 
 ## License
