@@ -32,6 +32,7 @@
     "alfy": "^0.6.0"
   },
   "devDependencies": {
+    "lodash": ">=4.17.5",
     "alfy-test": "^0.3.0",
     "ava": "^0.18.0",
     "xo": "^0.17.0"
